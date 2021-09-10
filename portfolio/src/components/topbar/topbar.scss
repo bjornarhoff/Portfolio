@@ -1,7 +1,7 @@
 .topbar{
     width: 100%;
-    height: 70px;
-    background-color: rgb(58, 65, 64);
+    height: 80px;
+    background-color: #F2F4F3;
     position: fixed;
     top: 0;
     z-index: 2;
@@ -15,10 +15,10 @@
         .leftside{
 
             .logo {
-                font-size: 43px;
+                font-size: 50px;
                 font-weight: 700;
                 text-decoration: none;
-                color: whitesmoke;
+                color: #49111C;
             }
 
         }
@@ -28,12 +28,12 @@
                 font-size: 14px;
                 text-transform: uppercase;
                 font-weight:bold;
-                color: whitesmoke;
+                color: #49111C;
                 text-decoration: none;
                 transition: color 0.3s linear;
             
                 &:hover {
-                color: rgba(201, 201, 201, 0.795);
+                color: #A9927D;
                 }
             }
         }
